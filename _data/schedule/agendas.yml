@@ -1,0 +1,62 @@
+- title: Course Introduction
+  id: course-intro-agenda
+  type: agenda
+  posted-date-iso: '2018-08-21T14:30:00'
+  doc: /agendas/course-introduction.html
+  published: true
+
+- title: Modeling Agenda
+  id: modeling-agenda
+  type: agenda
+  posted-date-iso: '2018-08-21T14:30:00'
+  doc: /agendas/modeling-agenda.html
+  published: true
+
+- title: Modeling and Texturing Agenda
+  id: modeling-texturing-agenda
+  type: agenda
+  posted-date-iso: '2018-08-28T14:30:00'
+  doc: /agendas/modeling-and-texturing-agenda.html
+  published: true
+
+- title: Lighting Rendering Agenda
+  id: lighting-rendering-agenda
+  type: agenda
+  posted-date-iso: '2018-09-04T14:30:00'
+  doc: /agendas/lighting-rendering-agenda.html
+  published: true
+
+- title: Realtime NPR Agenda
+  id: realtime-npr-agenda
+  type: agenda
+  posted-date-iso: '2018-09-11T14:30:00'
+  doc: /agendas/realtime-npr-agenda.html
+  published: true
+
+- title: Animation Agenda
+  id: animation-intro-agenda
+  type: agenda
+  posted-date-iso: '2018-10-18T14:30:00'
+  doc: /agendas/animation-intro-agenda.html
+  published: true
+
+- title: Rigging Agenda
+  id: rigging-agenda
+  type: agenda
+  posted-date-iso: '2018-08-28T14:30:00'
+  doc: /agendas/rigging-agenda.html
+  published: false
+  
+- title: Texture Animation Agenda
+  id: texture-animation-agenda
+  type: agenda
+  posted-date-iso: '2018-08-28T14:30:00'
+  doc: /agendas/texture-animation-agenda.html
+  published: false
+
+- title: Blender Rendering and Exporting Tutorials
+  id: blender-rendering-and-exporting-tutorials
+  type: agenda
+  posted-date-iso: '2018-11-20T14:30:00'
+  doc: /agendas/blender-rendering-and-exporting-tutorials.html
+  published: true

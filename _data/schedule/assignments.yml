@@ -1,0 +1,139 @@
+- title: Exercise 1
+  id: modeling-intro
+  type: exercise
+  # posted-date: 8/21/2018
+  posted-date-iso: '2018-08-21T14:30:00'
+  # due-date: 2:30pm on August 28, 2018
+  due-date-iso: '2018-08-28T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335150
+  doc: /assignments/modeling-intro.html
+  published: true
+
+- title: Exercise 2
+  id: modeling-and-texturing
+  type: exercise
+  # posted-date: 8/28/2018
+  posted-date-iso: '2018-08-28T14:30:00'
+  # 2:30pm on September 4, 2018
+  due-date-iso: '2018-09-04T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335151
+  doc: /assignments/modeling-and-texturing.html
+  published: true
+
+- title: Exercise 3
+  id: surfaces-lighting-rendering
+  type: exercise
+  # posted-date: 2:30pm on 9/04/2018
+  posted-date-iso: '2018-09-04T14:30:00'
+  # due-date: 2:30pm on September 11, 2018
+  due-date-iso: '2018-09-11T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335152
+  doc: /assignments/surfaces-lighting-rendering.html
+  published: true
+
+- title: Exercise 4
+  id: realtime-sketchfab
+  type: exercise
+  # posted-date: 2:30pm on 9/04/2018
+  posted-date-iso: '2018-09-11T14:30:00'  
+  # due-date: 2:30pm on Sept 18, 2018
+  due-date-iso: '2018-09-18T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335153
+  doc: /assignments/realtime-sketchfab.html
+  published: true
+
+- title: Exercise 5
+  id: rigging
+  type: exercise
+  # posted-date: 2:30pm on 11/01/2018
+  posted-date-iso: '2018-11-01T14:30:00'  
+  # due-date: 2:30pm on Nov 1, 2018
+  due-date-iso: '2018-11-01T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335154
+  doc: /assignments/rigging.html
+  published: true
+
+- title: Project 1
+  id: project-speculative-design
+  type: project
+  # posted-date: 2:30pm on 9/21/2018
+  posted-date-iso: '2018-09-18T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+  doc: /assignments/project-speculative-design.html
+  published: true
+  milestones:
+    - concepts:
+      due-date: 2:30pm on September 20, 2018
+      due-date-iso: '2018-09-20T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+      title: Project 1 Concepts
+    - wireframes:
+      due-date: 2:30pm on September 27, 2018
+      due-date-iso: '2018-09-27T14:30:00'
+      title: Project 1 Wireframes
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+    - draft-renders:
+      due-date: 2:30pm on October 4, 2018
+      due-date-iso: '2018-10-02T14:30:00'
+      title: Project 1 Draft Renders
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+    - draft-poster:
+      due-date: 2:30pm on October 4, 2018
+      title: Project 1 Poster PDF
+      due-date-iso: '2018-10-09T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+    - draft-statement:
+      due-date: 2:30pm on October 9, 2018
+      due-date-iso: '2018-10-09T14:30:00'
+      title: Project 1 Draft Statement
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+    - final-statement:
+      due-date: 2:30pm on October 16, 2018
+      due-date-iso: '2018-10-16T14:30:00'
+      title: Project 1 Final Statement
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+    - final-submission:
+      due-date: 2:30pm on October 16, 2018
+      due-date-iso: '2018-10-16T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+      title: Project 1 Final Submission
+    - post-crit-revision:
+      due-date: 2:30pm on October 23, 2018
+      due-date-iso: '2018-10-23T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158 
+      title: Project 1 Optional Post Critique Revision
+  
+- title: Project 2
+  id: animation-project
+  type: project
+  # posted-date: 2:30pm on 10/23/2018
+  posted-date-iso: '2018-10-23T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
+  doc: /assignments/animation-project.html
+  published: true
+  milestones:
+    - concepts:
+      due-date: 2:30pm on October 30, 2018
+      due-date-iso: '2018-10-30T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436748
+      title: Project 2 Concepts
+    - playblast:
+      due-date: 2:30pm on November 8, 2018
+      due-date-iso: '2018-11-08T14:30:00'
+      title: Project 2 playblast
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436750
+    - test-renders:
+      due-date: 2:30pm on November 13, 2018
+      due-date-iso: '2018-11-15T14:30:00'
+      title: Project 2 Test Renders
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436749
+    - final-submission:
+      due-date: 2:30pm on November 27, 2018
+      due-date-iso: '2018-11-27T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
+      title: Project 2 Final Submission
+    - revision:
+      due-date: 2:30pm on December 6, 2018
+      due-date-iso: '2018-12-06T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436751
+      title: Project 2 Optional Post Critique Revision
