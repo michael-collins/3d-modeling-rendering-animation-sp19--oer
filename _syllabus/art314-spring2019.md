@@ -54,7 +54,9 @@ Free access to pluralsight.com will be provided to access learning materials. Yo
 ### Software
 Autodesk software is free to students: [Autodesk.com](http://www.autodesk.com/education/home)
 
-Supplemental software training is available at lynda.psu.edu and pluralsight.com (digitaltutors.com)
+[Blender.org](https://www.blender.org/)
+
+Supplemental software training is available at lynda.psu.edu.
 
 #### ALWAYS BACK UP YOUR WORK
 Keep a copy of your work files on box.psu.edu. Ensure that you have multiple copies of your data at all times AND are __saving iteratively__ (multiple scene files) as you progress. Data corruption happens often. Again, loss of data is not a valid excuse for submitting a project late.
@@ -165,4 +167,4 @@ An integral aspect this class is viewing, discussing, and responding to your own
 
 * * *
 
-{% include calendarFA2018.md %}
+{% include calendarSP2019.md %}

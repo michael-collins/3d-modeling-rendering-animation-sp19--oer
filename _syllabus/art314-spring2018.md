@@ -167,4 +167,4 @@ An integral aspect this class is viewing, discussing, and responding to your own
 
 * * *
 
-{% include calendar.md %}
+{% include calendarSP2018.md %}
