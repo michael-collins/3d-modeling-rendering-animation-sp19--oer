@@ -13,33 +13,26 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 **Level 1: Novice Students**
 
-Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
-
-Youtube - Modeling advice: [Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
-
-Lynda - Watch up to Chapter 3: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
-
-Lynda - Watch Chapter 3 - Creating furniture videos 1 and 2: 
+- Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
+- Youtube - Modeling advice: [Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
+- Lynda - Watch up to Chapter 3: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
+- Lynda - Watch Chapter 3 - Creating furniture videos 1 and 2: 
 [Modeling the Eames Chair](https://www.lynda.com/Blender-tutorials/Beginning-Eames-chair/360620/384027-4.html?org=psu.edu)
-
-Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
+- Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
 
 **Level 2: Intermediate Students**
 
-Lynda - Watch up to Chapter 6: [Maya Essentials](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
-
-[Lynda.com - Advanced Modeling](https://www.lynda.com/Maya-tutorials/Maya-Advanced-Modeling/622047-2.html?org=psu.edu)
+- Lynda - Watch up to Chapter 6: [Maya Essentials](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
+- [Lynda.com - Advanced Modeling](https://www.lynda.com/Maya-tutorials/Maya-Advanced-Modeling/622047-2.html?org=psu.edu)
 
 **Level 3: Experienced Students**
-
-[Lynda.com - ZBrush Essential Training](https://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html?org=psu.edu) (Lessons 1- 7)  
-[Lynda.com - Sculpting a Creature with ZBrush](https://www.lynda.com/Photoshop-tutorials/Welcome/366834/386733-4.html?org=psu.edu) (Lessons 1 - 3)  
+ 
+- [Character scuptling](https://www.lynda.com/Blender-tutorials/Sculpting-fine-details/135362/146888-4.html?org=psu.edu)  
 
 **Reference Websites**
 
-[Youtube: Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
-
-[Random Objects Generator](http://www.randomlists.com/things)
+- [Youtube: Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
+- [Random Objects Generator](http://www.randomlists.com/things)
 
 ## Steps to Completion
 
@@ -63,7 +56,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 5. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
 5. Save the 3D scene file as **_{{ page.submission-id }}_** in the project folder.
 6. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-7. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-2"></a>Level 2:
@@ -85,18 +78,18 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
     **See example image of a crowbar below:**  
     ![Polygon model of crowbar]({{ site.baseurl }}{{ page.asset-path }}/maya-modeling-1.jpg)  
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
-8. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+8. Upload the .zip file to the assignment dropbox.
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-3"></a>Level 3:
 
 1. Watch the tutorials from Lynda on modeling with ZBrush.
-2. Using the techniques learned in the Digital Creature Creation tutorials, create a **Creature with quite large ears**.
-3. Your ZBrush model should be of similar refinement to the model in Sculpting a Creature with ZBrush, by the end of Lesson 3.
-4. Take a screenshot of your model and rename the image as **_{{ page.submission-id }}.png_**.
-5. Save your image in a project folder **_{{ page.submission-id }}-L3_**.
+2. Using the techniques learned in the charcter sculpting tutorials, create a creature half human half animal creature.
+3. Your sculpted model should be of similar refinement to the example model by the end of course.
+4. Save the blender file as **_{{ page.submission-id }}.blend_**.
+5. Save your blend file in a project folder **_{{ page.submission-id }}-L3_**.
 6. Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-7. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 
