@@ -3,7 +3,6 @@ layout: post
 title: Introduction to Modeling and Texturing
 categories: agenda
 comments: false
-published: true
 excerpt: Introduction to modeling and texturing.
 ---
 
@@ -20,5 +19,9 @@ excerpt: Introduction to modeling and texturing.
    -  Unfolding tools
    -  UV Shell
    -  UV Snapshot
-3. **Texturing Demo**
-4. Assignment
+3. **Prepping mesh for UV Mapping**
+   - Reset scale to 1. Use '**Apply**' in Blender.  (Translation and rotation is also sometimes needed)
+   - Check mesh for problems
+4. **UV Unwrapping Tips**
+   - [https://chocofur.com/page/uv-mapping-tutorial-in-blender-2-79](https://chocofur.com/page/uv-mapping-tutorial-in-blender-2-79)
+5. **Texturing Demo**

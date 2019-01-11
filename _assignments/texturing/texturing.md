@@ -1,5 +1,5 @@
 ---
-title: Modeling and Texturing
+title: Texturing
 subtitle: 
 layout: exercise
 submission-id: modeling-02-YOURNAME
@@ -16,16 +16,10 @@ In this exercise, you will continue 3D modeling and begin texturing. There are d
 
 **Level 1: Novice Students**
 
-Blender:
-
 - Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
 - Lynda - Watch Chapters 1- 4 and 7: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
 - Lynda - Watch Chapters 1- 4: 
 [Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)
-
-Maya:
-
-- Watch Chapters 1-6, and 10: [Maya Essential Training](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
 
 Reference:
 
@@ -36,16 +30,9 @@ Reference:
 
 **Level 2: Intermediate Students**
 
-Blender:
-
 - Lynda - Watch up to Chapter 4 and 7: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
 - Lynda - Watch Chapter 1 - 4: 
 [Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)
-
-Maya:
-
-- Lynda.com [Advanced Modeling](https://www.lynda.com/Maya-tutorials/Maya-Advanced-Modeling/622047-2.html?org=psu.edu)
-- Lynda.com [Advanced texturing](https://www.lynda.com/Maya-tutorials/Maya-Advanced-Texturing/622048-2.html?org=psu.edu)
 
 ---
 
@@ -78,7 +65,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 8. In Blender or Maya, set up the chair's textures so they are visible on the model.
 9. Save the 3D scene file as **_{{ page.submission-id }}_** in the project folder.
 10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-11. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+11. Upload the .zip file to the assignment dropbox.
 12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 1_ folder structure**
@@ -89,7 +76,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 |
 ├── [chair part]_uv-{{ page.submission-id }}.jpg (as many as needed)
 ├── [chair part]_color-{{ page.submission-id }}.jpg (as many as needed)
-└── chair-{{ page.submission-id }}.blend or .mb
+└── chair-{{ page.submission-id }}.blend
 
 ```
 
@@ -113,7 +100,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
   **_color2-{{ page.submission-id }}.jpg_**  
   **_color3-{{ page.submission-id }}.jpg_**  
 6. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
-7. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 2_ folder structure**
@@ -128,9 +115,9 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 ├── color1-{{ page.submission-id }}.jpg
 ├── color2-{{ page.submission-id }}.jpg
 ├── color3-{{ page.submission-id }}.jpg
-├── obj1-{{ page.submission-id }}.blend OR .mb
-├── obj2-{{ page.submission-id }}.blend OR .mb
-└── obj3-{{ page.submission-id }}.blend or .mb
+├── obj1-{{ page.submission-id }}.blend
+├── obj2-{{ page.submission-id }}.blend
+└── obj3-{{ page.submission-id }}.blend 
 
 ```
 
@@ -143,7 +130,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 5. Save your scene as **_{{ page.submission-id }}-L3_** in the scenes folder.
 6. Save your PSD texture in the *sourceimages* folder as **_{{ page.submission-id }}-L3.psd_**. ([See Organizing the maps into Photoshop layers](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) on Lynda.com)
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+8. Upload the .zip file to the assignment dropbox.
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 3_ folder structure**
@@ -154,6 +141,6 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 |
 ├── {{ page.submission-id }}-L3
 ├── {{ page.submission-id }}.jpg (as many textures as required)
-└── {{ page.submission-id }}.blend or .mb
+└── {{ page.submission-id }}.blend
 
 ```

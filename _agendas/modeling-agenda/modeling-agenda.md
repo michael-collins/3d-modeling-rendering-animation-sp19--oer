@@ -3,7 +3,6 @@ layout: post
 title: Introduction to Modeling
 categories: agenda
 comments: false
-published: true
 excerpt: Introduction to modeling.
 ---
 
