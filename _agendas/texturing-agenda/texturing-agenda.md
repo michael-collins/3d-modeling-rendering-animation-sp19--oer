@@ -14,7 +14,7 @@ excerpt: Introduction to texturing.
    - Student Reel, Cindy Jang: https://vimeo.com/52911102
 2. **Terminology**
    -  [UV Mapping](https://en.wikipedia.org/wiki/UV_mapping)
-   -  Normals
+   -  [Normals](https://docs.blender.org/manual/en/latest/modeling/meshes/mesh_display.html)
    -  Non-manifold Geometry
    -  Unfolding tools
    -  UV Shell
