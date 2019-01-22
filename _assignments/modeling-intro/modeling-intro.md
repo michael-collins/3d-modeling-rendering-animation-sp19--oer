@@ -27,7 +27,7 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 **Level 3: Experienced Students**
 
-  - [Character scuptling](https://www.lynda.com/Blender-tutorials/Sculpting-fine-details/135362/146888-4.html?org=psu.edu) 
+  - [Character scuptling: Lesson 1-4](https://www.lynda.com/Blender-tutorials/Sculpting-fine-details/135362/146888-4.html?org=psu.edu) 
 
 **Reference Websites**
 
@@ -84,10 +84,9 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 ### <a name="level-3"></a>Level 3:
 
 1. Watch the tutorials related to sculpting.
-2. Using the techniques learned to create a **real-life aquatic creature**.
-3. Your sculpted model should be of similar refinement to the example model.
-4. Save the blender file as **_{{ page.submission-id }}.blend_**.
-5. Save your blend file in a project folder **_{{ page.submission-id }}-L3_**.
+2. Use the techniques learned to create a detailed sculpt of a **real-life aquatic creature**.
+3. Your sculpted model should be of similar refinement to the example model at the end of lesson 4.
+5. Save your blend file in a project folder **_{{ page.submission-id }}.blend_**.
 6. Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.

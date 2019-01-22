@@ -21,36 +21,58 @@
   published: true
 
 - title: Exercise 3
+  id: advanced-texturing
+  type: exercise
+  # posted-date: 1/22/2019
+  posted-date-iso: '2019-01-22T11:15:00'
+  # 11:15pm on 1/29/2019
+  due-date-iso: '2019-01-29T11:15:00'
+  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689257
+  doc: /assignments/advanced-texturing.html
+  published: true
+
+- title: Exercise 4
   id: surfaces-lighting-rendering
   type: exercise
   # posted-date: 11:15pm on 1/22/2019
   posted-date-iso: '2019-01-22T11:15:00'
   # due-date: 11:15pm on 1/29/2019
   due-date-iso: '2019-01-29T11:15:00'
-  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689257
+  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689258
   doc: /assignments/surfaces-lighting-rendering.html
   published: false
 
-- title: Exercise 4
-  id: realtime-sketchfab
+- title: Exercise 5
+  id: animation
   type: exercise
   # posted-date: 11:15pm on 2/05/2019
   posted-date-iso: '2019-02-05T11:15:00'  
   # due-date: 11:15pm on 2/12/2019
   due-date-iso: '2019-02-12T11:15:00'
-  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689258
-  doc: /assignments/realtime-sketchfab.html
+  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689259
+  doc: /assignments/animation.html
   published: false
 
-- title: Exercise 5
+- title: Exercise 6
   id: rigging
   type: exercise
   # posted-date: 11:15pm on 02/12/2019
   posted-date-iso: '2019-02-12T11:15:00'  
   # due-date: 11:15pm on 02/19/2019
   due-date-iso: '2019-02-19T11:15:00'
-  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689259
+  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689260
   doc: /assignments/rigging.html
+  published: false
+
+- title: Exercise 7
+  id: advanced-rigging
+  type: exercise
+  # posted-date: 11:15pm on 02/12/2019
+  posted-date-iso: '2019-02-12T11:15:00'  
+  # due-date: 11:15pm on 02/19/2019
+  due-date-iso: '2019-02-19T11:15:00'
+  dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689260
+  doc: /assignments/advanced-rigging.html
   published: false
 
 - title: Project 1

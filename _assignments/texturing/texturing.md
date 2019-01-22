@@ -2,7 +2,7 @@
 title: Texturing
 subtitle: 
 layout: exercise
-submission-id: modeling-02-YOURNAME
+submission-id: texture-YOURNAME
 asset-path: /assets/exercise-images
 exercise: exercise-2
 project-file: /assets/exercise-downloads/airline-chair-1.blend
@@ -38,8 +38,9 @@ Reference:
 
 **Level 3: Experienced Students**
 
-- [Lynda.com - ZBrush Essential Training](https://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html?org=psu.edu) (Lessons 1- 7)  
-- [Lynda.com - Sculpting a Creature with ZBrush](https://www.lynda.com/Photoshop-tutorials/Welcome/366834/386733-4.html?org=psu.edu) (Lessons 1 - 3)  
+  - [Character scuptling: Lesson 5](https://www.lynda.com/Blender-tutorials/Sculpting-fine-details/135362/146888-4.html?org=psu.edu)
+  - [Retopologize](https://www.youtube.com/watch?v=k9NAv_q_wfU)
+  - [Normal Maps and Nodes](https://www.youtube.com/watch?v=gzZqFrFlcEE)
 
 ---
 
@@ -123,12 +124,14 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ### <a name="level-3"></a>Level 3:
 
-1. Watch the Essential Training and Digital Character Creation tutorials from Lynda on modeling with ZBrush.
-2. Using the techniques learned in the Digital Creature Creation tutorials, continue working on your model.
-3. Create the textures covered in the Digital Character Creation tutorials.
-4. Import your model into Maya or Blender and connect the textures to the creature’s shader.
-5. Save your scene as **_{{ page.submission-id }}-L3_** in the scenes folder.
-6. Save your PSD texture in the *sourceimages* folder as **_{{ page.submission-id }}-L3.psd_**. ([See Organizing the maps into Photoshop layers](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) on Lynda.com)
+1. Watch the level 3 tutorials.
+2. Continue working on your model from the previous exercise.
+3. Retopologize the mesh.
+4. Create two maps: A **diffuse map** and a **normal map**.
+5. Follow the **Normal Maps and Nodes** tutorial to connect the textures to the creature’s shader.
+6. Save your file as **_{{ page.submission-id }}_.blend**
+7. Save your diffuse map in the project folder as **_diffuse-{{ page.submission-id }}.png_**.
+7. Save your normal map in the project folder as **_normal-{{ page.submission-id }}.png_**.
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 8. Upload the .zip file to the assignment dropbox.
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
@@ -139,8 +142,8 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 {{ page.submission-id }}-L3.zip
 |
-├── {{ page.submission-id }}-L3
-├── {{ page.submission-id }}.jpg (as many textures as required)
+├── diffuse-{{ page.submission-id }}.png
+├── normal-{{ page.submission-id }}.png
 └── {{ page.submission-id }}.blend
 
 ```
