@@ -19,11 +19,18 @@
   doc: /agendas/texturing-agenda.html
   published: true
 
-- title: Advanced Texturing Agenda
+- title: Advanced Texturing Agenda #Change this to PBR Agenda
   id: advanced-texturing-agenda
   type: agenda
   posted-date-iso: '2019-01-17T11:15:00'
   doc: /agendas/advanced-texturing-agenda.html
+  published: true
+
+- title: NPR Agenda
+  id: npr-agenda
+  type: agenda
+  posted-date-iso: '2019-01-29T11:15:00'
+  doc: /agendas/npr-agenda.html
   published: true
 
 - title: Lighting Rendering Agenda

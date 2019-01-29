@@ -1,5 +1,5 @@
 ---
-title: Advanced Texturing
+title: Advanced Texturing # In the future, change this assignment title to PBR Modeling, Texturing, and Rendering
 subtitle: 
 layout: exercise
 submission-id: advanced-texturing-YOURNAME
