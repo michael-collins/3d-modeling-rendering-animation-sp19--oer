@@ -78,51 +78,51 @@
 - title: Project 1
   id: project-speculative-design
   type: project
-  # posted-date: 11:15pm on 9/21/2019
-  posted-date-iso: '2019-09-18T11:15:00'
+  # posted-date: 11:15pm on 01/05/2019
+  posted-date-iso: '2019-02-05T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
   doc: /assignments/project-speculative-design.html
-  published: false
+  published: true
   milestones:
     - concepts:
-      due-date: 11:15pm on September 20, 2019
-      due-date-iso: '2019-09-20T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+      due-date: 11:15pm on February 07, 2019
+      due-date-iso: '2019-02-07T11:15:00'
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689418
       title: Project 1 Concepts
     - wireframes:
-      due-date: 11:15pm on September 27, 2019
-      due-date-iso: '2019-09-27T11:15:00'
+      due-date: 11:15pm on February 14, 2019
+      due-date-iso: '2019-02-14T11:15:00'
       title: Project 1 Wireframes
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
-    - draft-renders:
-      due-date: 11:15pm on October 4, 2019
-      due-date-iso: '2019-10-02T11:15:00'
-      title: Project 1 Draft Renders
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
-    - draft-poster:
-      due-date: 11:15pm on October 4, 2019
-      title: Project 1 Poster PDF
-      due-date-iso: '2019-10-09T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
-    - draft-statement:
-      due-date: 11:15pm on October 9, 2019
-      due-date-iso: '2019-10-09T11:15:00'
-      title: Project 1 Draft Statement
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689463
+    # - draft-renders:
+    #   due-date: 11:15pm on February 07, 2019
+    #   due-date-iso: '2019-02-07T11:15:00'
+    #   title: Project 1 Draft Renders
+    #   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+    # - draft-poster:
+    #   due-date: 11:15pm on February 07, 2019
+    #   title: Project 1 Poster PDF
+    #   due-date-iso: '2019-02-07T11:15:00'
+    #   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+    # - draft-statement:
+    #   due-date: 11:15pm on February 07, 2019
+    #   due-date-iso: '2019-02-07T11:15:00'
+    #   title: Project 1 Draft Statement
+    #   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
     - final-statement:
-      due-date: 11:15pm on October 16, 2019
-      due-date-iso: '2019-10-16T11:15:00'
+      due-date: 11:15pm on February 28, 2019
+      due-date-iso: '2019-02-28T11:15:00'
       title: Project 1 Final Statement
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689467
     - final-submission:
-      due-date: 11:15pm on October 16, 2019
-      due-date-iso: '2019-10-16T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
+      due-date: 11:15pm on February 28, 2019
+      due-date-iso: '2019-02-28T11:15:00'
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689468
       title: Project 1 Final Submission
     - post-crit-revision:
-      due-date: 11:15pm on October 23, 2019
-      due-date-iso: '2019-10-23T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158 
+      due-date: 11:15pm on March 14, 2019
+      due-date-iso: '2019-03-14T11:15:00'
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689470 
       title: Project 1 Optional Post Critique Revision
   
 - title: Project 2
