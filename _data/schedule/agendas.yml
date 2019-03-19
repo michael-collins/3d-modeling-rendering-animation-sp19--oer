@@ -48,10 +48,10 @@
   published: false
 
 - title: Animation Agenda
-  id: animation-intro-agenda
+  id: animation-agenda
   type: agenda
   posted-date-iso: '2019-03-19T11:15:00'
-  doc: /agendas/animation-intro-agenda.html
+  doc: /agendas/animation-agenda.html
   published: true
 
 - title: Rigging Agenda
