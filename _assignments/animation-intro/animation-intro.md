@@ -33,7 +33,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    - Animate the sphere to rotate concentrically around the cube, twice(720 degrees).
    - Go into the Graph Editor and set **interpolation mode** to **linear**.
    - Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.
-   - Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 30, and move back to the origin from frame 31 to 60. (The sphere will follow the cube as it moves up and down if it parented correctly)
+   - Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 60, and move back to the origin from frame 61 to 120. (The sphere will follow the cube as it moves up and down if it parented correctly)
    - Create a new perspective camera.
    - Create an 'empty' and use it at as an [aim target for the camera](https://www.youtube.com/watch?v=DLAlgXRYn_4).
    - Parent the 'empty' to the cube so the camera aims at the cube as it moves up and down.
