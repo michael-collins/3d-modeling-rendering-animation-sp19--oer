@@ -6,8 +6,8 @@ submission-id: animation-YOURSTUDENTID
 asset-path: /assets/exercise-images
 exercise: exercise-5
 ---
-
-In this exercise, you will practice keyframing, animating the camera, and creating deformers. Level 1 students will create a simple demonstration of basic animation and camera movement. Level 2 and 3 students will create an animation inspired by tetris.
+![cube and sphere in blender 3d]({{ site.baseurl }}{{ page.asset-path }}/blender-animation-intro.png)
+In this exercise, level 1 students will practice keyframing, parenting, animating the camera with a target, and manipulating curves in the graph editor. Level 2 and 3 students will create advanced animations based on the requirements listed in the instructions.
 
 ## Learning Resources
 
