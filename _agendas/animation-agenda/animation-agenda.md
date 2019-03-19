@@ -1,32 +1,27 @@
 ---
 layout: post
-title: Introduction to Animation in Maya
+title: Introduction to Animation
 categories: agenda
 comments: false
-published: false
-excerpt: Introduction to animation in Autodesk Maya.
+published: true
+excerpt: Introduction to animation in Blender.
 ---
 
 ### Agenda
 
-1. History: [NYC Film Academy](https://www.nyfa.edu/student-resources/quick-history-animation/)
-2. Screenings
-  - [Primitives](https://vimeo.com/194250040) by Alan Warburton
+1. Screenings
   - [Illusion of Life](https://vimeo.com/93206523)
+  - [Animation Mentor](https://www.youtube.com/watch?v=CtRBOI0PVgI)
+  - [Karl Sims - Evolved Virtual Creatures, Evolution Simulation, 1994](https://www.youtube.com/watch?v=JBgG_VSP7f8)
   - [Berlin Tetris](https://vimeo.com/6736261)
   - [NYT - Circle squared](https://vimeo.com/17090753)
-3. **Terminology**
-  - Pivot point
-  - Groups
+2. **Terminology**
+  - 12 Principles of animation
+  - Newton's 3 laws of motion
   - Graph Editor
   - Keyframe
   - Timeline
   - FPS
   - Dope Sheet
-  - Playblast
-  - Deformers
-  - Tangets
-  - 12 Principles of animation
-  - Newton's 3 laws
-4. **Texturing Demo**
-5. Animation exercise
+3. **Animation Demo**
+4. Animation exercise
