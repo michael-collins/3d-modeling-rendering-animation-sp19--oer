@@ -23,5 +23,8 @@ excerpt: Introduction to animation in Blender.
   - Timeline
   - FPS
   - Dope Sheet
-3. **Animation Demo**
-4. Animation exercise
+3. Books
+  - [Animators Survival Kit](https://www.amazon.com/Animators-Survival-Kit-Principles-Classical/dp/086547897X)
+  - [Illusion of Life](https://www.amazon.com/Illusion-Life-Disney-Animation/dp/0786860707/)
+4. **Animation Demo**
+5. Animation exercise
