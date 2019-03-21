@@ -57,20 +57,20 @@
 - title: Rigging Agenda
   id: rigging-agenda
   type: agenda
-  posted-date-iso: '2018-08-28T11:15:00'
+  posted-date-iso: '2019-03-21T11:15:00'
   doc: /agendas/rigging-agenda.html
-  published: false
+  published: true
   
 - title: Texture Animation Agenda
   id: texture-animation-agenda
   type: agenda
-  posted-date-iso: '2018-08-28T11:15:00'
+  posted-date-iso: '2019-08-28T11:15:00'
   doc: /agendas/texture-animation-agenda.html
   published: false
 
 - title: Blender Rendering and Exporting Tutorials
   id: blender-rendering-and-exporting-tutorials
   type: agenda
-  posted-date-iso: '2018-11-20T11:15:00'
+  posted-date-iso: '2019-11-20T11:15:00'
   doc: /agendas/blender-rendering-and-exporting-tutorials.html
   published: false
