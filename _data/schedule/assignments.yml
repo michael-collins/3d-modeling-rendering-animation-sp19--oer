@@ -132,7 +132,7 @@
   posted-date-iso: '2019-10-26T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
   doc: /assignments/animation-project.html
-  published: true
+  published: false
   milestones:
     - concepts:
       due-date: 11:15pm on March 28, 2019
