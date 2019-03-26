@@ -129,33 +129,33 @@
   id: animation-project
   type: project
   # posted-date: 11:15pm on 10/23/2019
-  posted-date-iso: '2019-10-23T11:15:00'
+  posted-date-iso: '2019-10-26T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
   doc: /assignments/animation-project.html
-  published: false
+  published: true
   milestones:
     - concepts:
-      due-date: 11:15pm on October 30, 2019
-      due-date-iso: '2019-10-30T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436748
+      due-date: 11:15pm on March 28, 2019
+      due-date-iso: '2019-03-28T11:15:00'
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689265
       title: Project 2 Concepts
     - playblast:
-      due-date: 11:15pm on November 8, 2019
-      due-date-iso: '2019-11-08T11:15:00'
-      title: Project 2 playblast
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436750
+      due-date: 11:15pm on April 4, 2019
+      due-date-iso: '2019-04-04T11:15:00'
+      title: Project 2 Animatic
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689267
     - test-renders:
-      due-date: 11:15pm on November 13, 2019
-      due-date-iso: '2019-11-15T11:15:00'
+      due-date: 11:15pm on April 18, 2019
+      due-date-iso: '2019-04-18T11:15:00'
       title: Project 2 Test Renders
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436749
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689269
     - final-submission:
-      due-date: 11:15pm on November 27, 2019
-      due-date-iso: '2019-11-27T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
+      due-date: 11:15pm on April 25, 2019
+      due-date-iso: '2019-04-25T11:15:00'
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689266
       title: Project 2 Final Submission
-    - revision:
-      due-date: 11:15pm on December 6, 2019
-      due-date-iso: '2019-12-06T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436751
-      title: Project 2 Optional Post Critique Revision
+    # - revision:
+    #   due-date: 11:15pm on December 6, 2019
+    #   due-date-iso: '2019-12-06T11:15:00'
+    #   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10436751
+    #   title: Project 2 Optional Post Critique Revision
