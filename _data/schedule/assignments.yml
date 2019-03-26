@@ -64,6 +64,7 @@
   doc: /assignments/rigging.html
   published: true
 
+
 - title: Exercise 7
   id: advanced-rigging
   type: exercise
@@ -74,6 +75,17 @@
   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689260
   doc: /assignments/advanced-rigging.html
   published: false
+
+# - title: Exercise 7
+#   id: advanced-rigging
+#   type: exercise
+#   # posted-date: 11:15pm on 02/12/2019
+#   posted-date-iso: '2019-02-12T11:15:00'  
+#   # due-date: 11:15pm on 02/19/2019
+#   due-date-iso: '2019-02-19T11:15:00'
+#   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689260
+#   doc: /assignments/advanced-rigging.html
+#   published: false
 
 - title: Project 1
   id: project-speculative-design
