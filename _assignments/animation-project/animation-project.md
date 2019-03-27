@@ -76,11 +76,11 @@ When uploading files to the dropboxes, ensure that you use the naming convention
    - Requirements: 
       - Upload .mp4 video file in H.264 format
       - `.txt` file with link to vimeo
-<!-- 5. **Project 2 Revision (Due: December 6th)**
+5. **Project 2 Revision**
    - Requirements: 
       - Write and add a statement format named (min 150 words) called **_statement.doc_** to the **_statement_** folder
       - Upload .mp4 video file in H.264 format
-      - `.txt` file with link to vimeo -->
+      - `.txt` file with link to vimeo
 
 
 ### Naming Conventions
