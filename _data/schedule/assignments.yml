@@ -139,8 +139,8 @@
 - title: Project 2
   id: animation-project
   type: project
-  # posted-date: 11:15pm on 10/23/2019
-  posted-date-iso: '2019-10-26T11:15:00'
+  # posted-date: 11:15am on 03/21/2019
+  posted-date-iso: '2019-03-21T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
   doc: /assignments/animation-project.html
   published: true
@@ -160,6 +160,11 @@
       due-date-iso: '2019-04-18T11:15:00'
       title: Project 2 Test Renders
       dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689269
+    # - statement:
+    #   due-date: 11:15am on April 25, 2019
+    #   due-date-iso: '2019-04-25T11:15:00'
+    #   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689266
+    #   title: Project 2 Final Submission
     - final-submission:
       due-date: 11:15am on April 25, 2019
       due-date-iso: '2019-04-25T11:15:00'

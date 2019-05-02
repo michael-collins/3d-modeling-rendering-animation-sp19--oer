@@ -72,14 +72,16 @@ When uploading files to the dropboxes, ensure that you use the naming convention
       - 3 to 5 test renders, each from a different part of the animation
       - 1080 HD preset
       - Render time must be under a minute (unless you plan to pay for an online renderfarm)
+4. **Statement**
+   - Requirements: 
+      - Write and add upload a statement format named (min 150 words) called **_statement.doc_**
 4. **Project 2 Final Submission**
    - Requirements: 
-      - Upload .mp4 video file in H.264 format
+      - Upload .mp4 video file in compressed H.264 format
       - `.txt` file with link to vimeo
 5. **Project 2 Revision**
    - Requirements: 
-      - Write and add a statement format named (min 150 words) called **_statement.doc_** to the **_statement_** folder
-      - Upload .mp4 video file in H.264 format
+      - Upload revised .mp4 video file in compressed H.264 format
       - `.txt` file with link to vimeo
 
 
